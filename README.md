@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Nathan+Viana+...;I'm+22+years+old;I+am+from+Brazil,+SP;I+study+developer+in+java+full+stack+.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+🎮[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Nathan+Viana+...;I'm+22+years+old;I+am+from+Brazil,+SP;I+study+developer+in+java+full+stack+.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -18,7 +18,20 @@
   <a href="https://twitter.com/nathaanviana" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 <div style="width: 200px;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=neon"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=neon" />
+</picture>
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanVianaDev&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanVianaDev&langs_count=8&theme=neon" alt="Top Langs" />
 </a>
+
 </div>
+
