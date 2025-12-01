@@ -23,10 +23,18 @@
   <a href="https://twitter.com/nathaanviana" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 <div style="width: 200px;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=neon"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=neon"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=neon" />
+</picture>
 
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanVianaDev&langs_count=8&theme=neon" alt="Top Langs" />
-</a>
 
 </div>
 
