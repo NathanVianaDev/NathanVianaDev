@@ -28,10 +28,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=neon"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NathanVianaDev&show_icons=true&theme=neon"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   
 </picture>
 <a href="https://github.com/SeuPerfilAqui/github-readme-stats">
